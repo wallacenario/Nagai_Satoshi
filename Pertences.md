@@ -89,6 +89,10 @@ Você pode gastar uma ação padrão para arremessar três shurikens.
 
 \+ 4 Compartimento
 
-### Contém
+### Contém 
+
+#### Ração de viagem (por dia)
+
+* Quantidade: 2
 
 # Ryos $30
